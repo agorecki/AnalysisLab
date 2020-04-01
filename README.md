@@ -31,7 +31,7 @@ cd ../Vagrant
 Vagrant up
 ```
 
-At this point you have a Windows 10 virtual machine with the following tools installed:
+At this point you have a Windows 10 virtual machine with the following tools installed:  
 `FireEye Flare`  
 `Sysinternal Suite`
 
