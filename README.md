@@ -8,7 +8,7 @@
 
 Clone the github repository via the GitHub website or via the Git client (if installed)  
 Download and install Vagrant  
-Download Packer and move the binary into your Packer folder  
+Download Packer and move the binary to your Packer folder  
 Download and install Virtualbox  
 
 Move into our working directory.
