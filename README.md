@@ -6,10 +6,10 @@
 | Virtualbox | [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads) |
 | VMWare Fusion (coming soon) | - |
 
-Clone the github repository via the GitHub website or via the Git client (if installed)
-Download and install Vagrant
-Download Packer and move the binary into your Packer folder
-Download and install Virtualbox
+Clone the github repository via the GitHub website or via the Git client (if installed)  
+Download and install Vagrant  
+Download Packer and move the binary into your Packer folder  
+Download and install Virtualbox  
 
 Move into our working directory.
 ```sh
@@ -35,6 +35,6 @@ At this point you have a Windows 10 virtual machine with the following tools ins
 `FireEye Flare`  
 `Sysinternal Suite`
 
-The license assigned to this VM is a 90 trial provided by Microsoft. Feel free to change the license to your own.
-Credit:
-[https://www.vagrantup.com/downloads.html](https://www.vagrantup.com/downloads.html)
+The license assigned to this VM is a 90 trial provided by Microsoft. Feel free to change the license to your own.  
+Credits:  
+[https://github.com/clong/DetectionLab](https://github.com/clong/DetectionLab)  
