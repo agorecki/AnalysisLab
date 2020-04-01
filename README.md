@@ -32,7 +32,9 @@ Vagrant up
 ```
 
 At this point you have a Windows 10 virtual machine with the following tools installed:
-`FireEye Flare`
+`FireEye Flare`  
 `Sysinternal Suite`
 
 The license assigned to this VM is a 90 trial provided by Microsoft. Feel free to change the license to your own.
+Credit:
+[https://www.vagrantup.com/downloads.html](https://www.vagrantup.com/downloads.html)
