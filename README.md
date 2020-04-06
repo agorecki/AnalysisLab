@@ -29,8 +29,10 @@ cd ../Vagrant
 ``` 
 ```sh
 Vagrant up
-```
-
+```  
+  
+The default login is `jsmith:jsmith`  
+  
 At this point you have a Windows 10 virtual machine with the following tools installed:  
 `FireEye Flare`  
 `Sysinternal Suite`
