@@ -25,9 +25,7 @@ $ mv windows_10.box ../Boxes
 ```
 Change to our Vagrant directory, import the virtual machine into Virtualbox, boot it, and run it with our Vagrant configuration
 ```sh 
-cd ../Vagrant
-``` 
-```sh
+cd ../Vagrant  
 Vagrant up
 ```  
   
