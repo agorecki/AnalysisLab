@@ -1,15 +1,10 @@
 ### Required Tools
 
 | Tool | Link |
-
 | ------ | ------ |
-
 | Vagrant | [https://www.vagrantup.com/downloads.html](https://www.vagrantup.com/downloads.html) |
-
 | Packer | [https://packer.io/downloads.html](https://packer.io/downloads.html) |
-
 | Virtualbox | [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads) |
-
 | VMWare Fusion (coming soon) | - |
   
 ### Preliminary required tasks before starting
